@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyProfile</string>
+    <string name="photoText">Фото</string>
+    <string name="projectText">Проекты</string>
+    <string name="nameText">Имя:</string>
+    <string name="ageText">Возраст:</string>
+    <string name="specializationText">Специализация</string>
+</resources>
